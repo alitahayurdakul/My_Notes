@@ -4,5 +4,5 @@ Start by picking second element of array. Moves according to where the number in
 
 ![This is an insertion sort image](../assets/Images/insertion_sort.PNG)
 
-**Time Complexity** => best = O(n) worst = O(n^2)  average = O(n^2)
+**Time Complexity** => best = O(n) worst = O(n^2)  average = O(n^2)  
 **Space Complexity** => O(1)

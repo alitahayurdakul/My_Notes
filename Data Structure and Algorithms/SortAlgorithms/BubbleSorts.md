@@ -6,7 +6,7 @@ There is swap operation. Firstly, 0.index is compared with 1.index. If 0.index >
 
 ![This is an bubble sort image](../assets/Images/bubble_sort.PNG)
 
-**Time Complexity** => best = O(n) worst = O(n^2)  average = O(n^2)
+**Time Complexity** => best = O(n) worst = O(n^2)  average = O(n^2)  
 **Space Complexity** => O(1)
 
 **ES5**
