@@ -13,7 +13,7 @@ Firstly, 0.index is compared all element of array. Then, it swaps with smallest 
 
 ![This is an selection sort image](../assets/Images/selection_sort.PNG)
 
-- Note  
+**Note**    
 Selection Sort potentially is better than bubble sort.
 
 In bubble sorting, swapping is over and over. In selection sort find smallest firstly, then swap.
