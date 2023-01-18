@@ -4,7 +4,7 @@ Firstly, 0.index is compared all element of array. Then, it swaps with smallest 
 
 ![This is an selection sort image](../assets/Images/selection_sort.PNG)
 
-- **Note**  
+<h1 class="note">Note</h1>
 Selection Sort potentially is better than bubble sort.
 
 
@@ -12,3 +12,9 @@ In bubble sorting, swapping is over and over. In selection sort find smallest fi
 
 **Time Complexity** => best = O(n^2) worst = O(n^2)  average = O(n^2)  
 **Space Complexity** => O(1)
+
+<style>
+    .note{
+        color: red;
+    }
+</style>
