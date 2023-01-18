@@ -15,7 +15,7 @@ In bubble sorting, swapping is over and over. In selection sort find smallest fi
 
 <style>
   h1{
-color: red;
+color: Red!important;
   }
     
 </style>
