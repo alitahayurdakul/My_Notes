@@ -16,5 +16,5 @@
 **Time Complexity** => best = O(n log n) worst = O(n^2) average = O(n log n)  
 **Space Complexity** => O(log n)  
 
-![This is an quick sort image best](../assets/Images/quick_Sort_big_O.PNG)  
-![This is an quick sort image worst](../assets/Images/quick_Sort_big_O_worst.PNG)
+![This is an quick sort image best](../../assets/Images/quick_Sort_big_O.PNG)  
+![This is an quick sort image worst](../../assets/Images/quick_Sort_big_O_worst.PNG)
