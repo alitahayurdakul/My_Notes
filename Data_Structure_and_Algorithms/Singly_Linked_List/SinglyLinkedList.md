@@ -4,6 +4,7 @@
 
 - A data structure that contains a head, tail and length property.
 - Linked Lists consist of nodes, and each node has a value and a pointer to another node or null
+- A node gives reference to next node. 
 
 !["This is a Singly Linked List image"](../assets/Images/singly_Linked_List.PNG)
 
