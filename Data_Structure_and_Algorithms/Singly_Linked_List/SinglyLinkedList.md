@@ -21,7 +21,7 @@ Adding a new node to the end of the Linked List!
 
 ## popping
 
-Removing a node from the end of the Linked List!
+Removing a node from the end of the Linked List!  
 **pseudocode**
 
 - If there are no nodes in the list, return undefined
@@ -33,7 +33,7 @@ Removing a node from the end of the Linked List!
 
 ## shifting
 
-Removing a new node from the beginning of the Linked List!
+Removing a new node from the beginning of the Linked List!  
 **pseudocode**
 
 - If there are no nodes, return undefined
@@ -44,7 +44,7 @@ Removing a new node from the beginning of the Linked List!
 
 ## unshifting
 
-Adding a new node to the beginning of the Linked List!
+Adding a new node to the beginning of the Linked List!  
 **pseudocode**
 
 - This function should accept a value
@@ -57,7 +57,7 @@ Adding a new node to the beginning of the Linked List!
 
 ## get
 
-Retrieving a node by it's position in the Linked List!
+Retrieving a node by it's position in the Linked List!  
 **pseudocode**
 
 - This function should accept an index
@@ -66,7 +66,7 @@ Retrieving a node by it's position in the Linked List!
 
 ## set
 
-Changing the value of a node based on it's position in the Linked List!
+Changing the value of a node based on it's position in the Linked List!  
 **pseudocode**
 
 - This function should accept a value and an index
@@ -76,7 +76,7 @@ Changing the value of a node based on it's position in the Linked List!
 
 ## insert
 
-Adding a node to the Linked List at a specific position
+Adding a node to the Linked List at a specific position  
 
 **pseudocode**
 
@@ -91,7 +91,7 @@ Adding a node to the Linked List at a specific position
 
 ## remove
 
-Removing a node from the Linked List at a specific position
+Removing a node from the Linked List at a specific position  
 **pseudocode**
 
 - If the index is less than zero or greater than the length, return undefined
@@ -104,7 +104,7 @@ Removing a node from the Linked List at a specific position
 
 ## reverse
 
-Reversing the Linked List in place!
+Reversing the Linked List in place!  
 **pseudocode**
 
 - Swap the head and tail
