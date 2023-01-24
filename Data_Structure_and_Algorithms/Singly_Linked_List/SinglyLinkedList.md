@@ -7,6 +7,20 @@
 
 !["This is a Singly Linked List image"](../assets/Images/singly_Linked_List.PNG)
 
+## Comparing Array and Linked List
+
+### Lists
+
+- Do not have indexes!
+- Connected via nodes with a next pointer
+- Random access is not allowed Arrays
+
+### Arrays
+
+- Indexed in order!
+- Insertion and deletion can be expensive
+- Can quickly be accessed at a specific index
+
 ## pushing
 
 Adding a new node to the end of the Linked List!  
@@ -76,7 +90,7 @@ Changing the value of a node based on it's position in the Linked List!
 
 ## insert
 
-Adding a node to the Linked List at a specific position  
+Adding a node to the Linked List at a specific position
 
 **pseudocode**
 
@@ -117,3 +131,16 @@ Reversing the Linked List in place!
 - Set prev to be the value of the node variable
 - Set the node variable to be the value of the next variable
 - Once you have finished looping, return the list
+
+## Big O of Singly Linked Lists
+
+- Insertion - O(1)
+- Removal - It depends.... O(1) or O(N)
+- Searching - O(N)
+- Access - O(N)
+
+**Differences to Array**
+
+- Singly Linked Lists are an excellent alternative to arrays when insertion and deletion at the beginning are frequently required
+- Arrays contain a built in index whereas Linked Lists do not
+- The idea of a list data structure that consists of nodes is the foundation for other data structures like Stacks and Queues
