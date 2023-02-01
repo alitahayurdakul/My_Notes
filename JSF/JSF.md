@@ -15,7 +15,7 @@
 
 ### How JSF Works Behind the Scenes
 
-["this is JSF operating logic image"](./operating_logic.PNG)
+!["this is JSF operating logic image"](./operating_logic.PNG)
 
 **JSF Faces Servlet**
 
