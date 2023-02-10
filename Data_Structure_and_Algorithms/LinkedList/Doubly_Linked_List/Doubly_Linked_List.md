@@ -9,12 +9,13 @@
 - More Memory
 - More Flexibity
 
-## Big O of Singly Linked Lists
+## Big O of Doubly Linked Lists
 
 - Insertion - O(1)
 - Removal - O(1)
 - Searching - O(N)
 - Access - O(N)
+
 
 **!!!**
 
